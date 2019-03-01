@@ -1,0 +1,16 @@
+Display single month view of a calendar
+- su/m/t/w/th/f/sa
+- use moment to get the number days and the day of the week
+
+Ability to add a reminder (max 30 chars) for a user entered day and time
+- click the day, add the reminder, display a list
+- show max of 3, with a button to view more reminders?
+- display in chronological order on the day
+- Allow the user to select the color label of the reminder
+- click reminder to edit
+- delete reminders
+
+After initial calendar is built, allow user to see more than current month
+
+
+Start With displaying the current month and calendar
